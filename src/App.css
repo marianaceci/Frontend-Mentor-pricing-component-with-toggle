@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: 'Montserrat', sans-serif;  
+}
+
+.App{
+  height: 100%;
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: url('/images/bg-top.svg') calc(100vw - 375px) -20px, url('/images/bg-bottom.svg') 0px calc(100% - 304px), hsl(240, 78%, 98%);
+  background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 1000px){
+  .App{    
+    height: 100vh;
+    background: url('/images/bg-top.svg') calc(100vw - 375px) -20px, url('/images/bg-bottom.svg') 0px calc(100vh - 304px), hsl(240, 78%, 98%);
+    background-repeat: no-repeat;
+  }
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
