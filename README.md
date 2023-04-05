@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/react-vite-and-styledcomponents-j4fBzqearH](https://www.frontendmentor.io/solutions/react-vite-and-styledcomponents-j4fBzqearH)
+- Live Site URL: [https://frontend-mentor-pricing-component-with-toggle-ten.vercel.app/](https://frontend-mentor-pricing-component-with-toggle-ten.vercel.app/)
 
 ## My process
 
